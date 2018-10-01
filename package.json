@@ -1,0 +1,14 @@
+{
+  "name": "mindbot",
+  "version": "1.0.0",
+  "description": "A bot to control the Greatness of Technology server on Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Reese",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
